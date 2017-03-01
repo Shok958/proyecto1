@@ -1,0 +1,16 @@
+.paginacion {
+	border: 1px solid #CCC;
+	background-color: #E0E0E0;
+	padding: 0.5em;
+	position: relative;
+}
+
+.izquierda {
+	margin-top: -8px;
+	float: left;
+}
+
+.derecha {
+	margin-top: -8px; 
+	float: right;
+}
